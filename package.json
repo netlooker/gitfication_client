@@ -1,0 +1,19 @@
+{
+  "name": "gitfication_client",
+  "version": "1.0.0",
+  "description": "GITfication websocket client",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netlooker/gitfication_client.git"
+  },
+  "author": "netlooker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netlooker/gitfication_client/issues"
+  },
+  "homepage": "https://github.com/netlooker/gitfication_client#readme"
+}
